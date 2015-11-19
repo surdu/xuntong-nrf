@@ -1,3 +1,5 @@
+See [specs on wiki](https://github.com/surdu/xuntong-nrf/wiki/Specs) for board pinout and dimmenstions.
+
 ## The breakout
 ![The breakout](https://cloud.githubusercontent.com/assets/11520795/11286127/f4618290-8f1b-11e5-858b-29738ec8bdae.PNG)
 
